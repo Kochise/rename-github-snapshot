@@ -8,7 +8,7 @@ Sometimes I download snapshots from GitHub and save them for later purpose. If y
 
 * Hardware and software needed
 
-\- indows win32 and MFC compatible OS<br>
+\- Windows win32 and MFC compatible OS<br>
 \- 7-Zip installed in "c:\Program Files\7-Zip\"<br>
 
 * How to use it
